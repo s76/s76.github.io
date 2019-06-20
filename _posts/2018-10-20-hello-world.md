@@ -7,6 +7,7 @@ tags: [hello, world]
 
 This is a sample post text.
 Time to test some features of jekyll/ markdown language:
-![An sample image](/assets/sample_image.jpg)
+![A sample image](/assets/sample_image.jpg =300x)
+A sample image !
 
 That's all folks!
