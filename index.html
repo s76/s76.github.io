@@ -5,7 +5,7 @@ layout: default
 <br>
 
 {% for post in site.posts %}
-    <a href="{{site.baseurl}}{{ post.url }}" class="post-title">
+    <a href="{{site.relative_url}}{{ post.url }}" class="post-title">
         {{ post.title }}
     </a>
     <div class="post-details">
@@ -15,7 +15,7 @@ layout: default
             {% if post.tags.first == tag %}
                 <b>[</b>
             {% endif %}
-            <a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>
+            <a href="{{ site.relative_url }}/tags/#{{ tag }}">{{ tag }}</a>
             {% if post.tags.last == tag %}
                 <b>]</b>
             {% else %}

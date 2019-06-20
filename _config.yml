@@ -1,9 +1,9 @@
 title: Tuan's dev blog
 author: Tuan (s76)
-subtitle: Tuan's dev blog 
+subtitle: Tuan's dev blog
 
 url: "https://s76.github.io"
-baseurl: "/"
+baseurl: ""
 
 footer_url: "https://github.com/pro-panda/parchment"
 footer_text: "Original theme 'Parchment' by pro-panda, modified by me"
