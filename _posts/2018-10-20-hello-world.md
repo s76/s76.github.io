@@ -6,5 +6,7 @@ tags: [hello, world]
 ---
 
 This is a sample post text.
+Time to test some features of jekyll/ markdown language:
+![An sample image](/assets/sample_image.jpg)
 
 That's all folks!
