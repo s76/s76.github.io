@@ -1,12 +1,12 @@
-title: Parchment
-author: pro-panda
-subtitle: A minimal jekyll theme
+title: Tuan's dev blog
+author: Tuan (s76)
+subtitle: Tuan's dev blog 
 
-url: "https://www.pro-panda.tech"
-baseurl: "/parchment"
+url: "https://s76.github.io"
+baseurl: "/"
 
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: "https://s76.github.io"
+footer_text: "A theme by pro-panda"
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
