@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
 # THIS PAGE IS UNDER CONSTRUCTION, CONTENT BELOW IS JUST SAMPLE CONTENT
----
 ## About Me
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
