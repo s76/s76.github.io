@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TDIL Euler angles and quaternions
+title: **[TDIL]** Euler angles and quaternions
 snippet: a seemingly simple problem turns out to be not trivial at all with the math behind it
 tags: [TDIL, math]
 ---
